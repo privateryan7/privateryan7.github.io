@@ -30,14 +30,14 @@
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/Helga7777777"
+            "url": "https://github.com/privateryan7"
         },
         "github-buttons": {
             "buttons": [{
                 "user": "privateryan7",
-                "repo": "glory",
+                "repo": "privateryan7.github.io",
                 "type": "star",
-                "size": "small",
+                "size": "big",
                 "count": true
                 }
             ]
